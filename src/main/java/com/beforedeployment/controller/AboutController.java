@@ -17,6 +17,11 @@ public class AboutController
     {
     }
 
+    @RequestMapping("/example-players-list")
+    public void players()
+    {
+    }
+
     @RequestMapping("/")
     public String home()
     {
