@@ -2,7 +2,7 @@
 <@header ''/>
 <div class="container">
   <div class="alert alert-success" role="alert">This is an example of the per round questionnaire. Each answer will autosave so players don't have to answer everything in one go.
-    Once all questions have been answered, the player pushes the button at the bottom to say they have answered everything. Once both players in the pairing have submitted their answers,
+ Ideally, this will take less than thirty minutes to fill in. Once all questions have been answered, the player pushes the button at the bottom to say they have answered everything. Once both players in the pairing have submitted their answers,
   the answers will be published for the public to see.</div>
   <p>Your opponent for this round is <strong>Tom Guan</strong> playing <strong>Cryx</strong></p>
   <div class="row">

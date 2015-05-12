@@ -1,9 +1,9 @@
 <#include 'header.ftl'>
 <@header ''/>
 <div class="container">
-    <div class="alert alert-success" role="alert">This is an example of the list submission questionnaire. Each answer will autosave so players don't have to answer everything in one go. 
-  Once all questions have been answered, the player pushes the button at the bottom to say they have answered everything. Once all players participating in the tournament have submitted their lists and answers,
-  the lists will be published for the other players and public to see.</div>
+    <div class="alert alert-success" role="alert">This is an example of the list submission questionnaire. Each answer will autosave so players don't have to answer everything in one go.
+Ideally, this will take less than thirty minutes to fill in. Once all questions have been answered, the player pushes the button at the bottom to say they have answered everything. Once all players participating in the tournament have submitted their lists and answers,
+the lists will be published for the other players and public to see.</div>
   <form>
     <div class="form-group">
       <label for="faction">Which faction are you playing?</label>
