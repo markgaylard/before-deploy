@@ -19,15 +19,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Before Deployment</a>
+          <a class="navbar-brand" href="/">Before Deployment</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">  
+       <!--   <ul class="nav navbar-nav">  
             <li <#if selected=='players'>class="active"</#if>><a href="#">Players</a></li>
-          </ul>
+          </ul> -->
           <ul class="nav navbar-nav navbar-right">
             <li <#if selected=='about'>class="active"</#if>><a href="about">About</a></li>
-            <li <#if selected=='contact'>class="active"</#if>><a href="#">Contact</a></li>
+       <!--     <li <#if selected=='contact'>class="active"</#if>><a href="#">Contact</a></li> -->
           </ul>
           </div>
         </div>

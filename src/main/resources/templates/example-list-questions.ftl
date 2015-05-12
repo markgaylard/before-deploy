@@ -113,7 +113,7 @@
         </div>
       </div>
     </div>
-    <button type="submit" class="btn btn-primary">I've answered everything. Lock in my lists!</button>
+    <button type="submit" class="btn btn-primary" disabled>I've answered everything. Lock in my lists!</button>
   </form>
 </div>
 <#include 'footer.ftl'>
