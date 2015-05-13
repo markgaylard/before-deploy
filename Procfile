@@ -1,1 +1,1 @@
-web:    java $JAVA_OPTS -jar build/libs/before-deployment-0.1.0.jar --server.port=$PORT
+web:    java $JAVA_OPTS -jar build/libs/before-deploy-0.1.0.jar --server.port=$PORT
