@@ -28,7 +28,7 @@ dependencies {
     }
     compile("org.springframework.boot:spring-boot-starter-jetty")
     compile("org.springframework.boot:spring-boot-starter-freemarker")
-    compile 'org.webjars:bootstrap:3.3.4'    
+    compile("org.eclipse.jetty:jetty-servlets")
     
     testCompile("junit:junit")
 }

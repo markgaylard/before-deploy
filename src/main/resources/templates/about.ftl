@@ -2,9 +2,9 @@
 <@header 'about'/>
 <div class="container">
   <div class="jumbotron">
-    <h2>What is Before Deployment?</h2>
+    <h2>What is Before Deploy?</h2>
     <p>This site is intended to help new Warmachine/Hordes players learn how top level players go about creating lists based on other 
-players in a tournament, what they think about during list selection and how they decide between picking a table edge or taking first turn. Basically all decisions made 'Before Deployment'.</p>
+players in a tournament, what they think about during list selection and how they decide between picking a table edge or taking first turn. Basically all decisions made before deployment.</p>
     <p>The aim isn't to come up with a set of rules for such things as 'which list do I choose for this opponent', but rather explain the 
 thinking behind these decisions. It is more about the WHY than the WHAT. By simulating a tournament setup with changing tables and opponents, the idea
 is that players will be able to provide more helpful information about why they made certain decisions.</p>

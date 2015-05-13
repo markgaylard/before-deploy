@@ -37,4 +37,10 @@ public class AboutController
     public void exampleRoundQuestions()
     {
     }
+    
+    @RequestMapping("/contact")
+    public void contact()
+    {
+    }
+
 }
