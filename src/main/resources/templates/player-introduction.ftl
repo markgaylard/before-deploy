@@ -1,5 +1,5 @@
 <#include 'header.ftl'>
-<@header 'about'/>
+<@header ''/>
 <div class="container">
   <div class="jumbotron">
     <h2>What is Before Deploy?</h2>
