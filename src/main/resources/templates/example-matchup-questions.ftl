@@ -1,18 +1,18 @@
 <#include 'header.ftl'>
 <@header ''/>
 <div class="container">
-  <div class="alert alert-success" role="alert">This is an example of the per round questionnaire. Each answer will autosave so players don't have to answer everything in one go.
+  <div class="alert alert-success" role="alert">This is an example of the per match questionnaire. Each answer will autosave so players don't have to answer everything in one go.
  Ideally, this will take less than thirty minutes to fill in. Once all questions have been answered, the player pushes the button at the bottom to say they have answered everything. Once both players in the pairing have submitted their answers,
   the answers will be published for the public to see.</div>
-  <p>Your opponent for this round is <strong>Tom Guan</strong> playing <strong>Cryx</strong></p>
+  <p>Your opponent for this match is <strong>Tom Guan</strong> playing <strong>Cryx</strong></p>
   <div class="row">
     <div class="col-md-6">
-      <p>The scenario for this round is <strong>Close Quarters</strong></p>
+      <p>The scenario for this match is <strong>Close Quarters</strong></p>
       <img class="img-responsive" src="closequarters.jpg"></img>
       <p></p>
     </div>
     <div class="col-md-6">
-      <p>The table for this round is:</p>
+      <p>The table for this match is:</p>
       <img class="img-responsive" src="exampletable.jpg"></img>
       <p></p>
     </div>
@@ -62,7 +62,7 @@
       </ul>
     </div>
   </div>
-  <form id="round" >
+  <form id="match" >
     <div class="form-group">
       <label for="listselection">Which of your lists would you choose to play against this opponent?</label>
       <a class="btn btn-default btn-xs" role="button" data-toggle="modal" data-target="#list1">View your Hoarluk 1 list</a>
