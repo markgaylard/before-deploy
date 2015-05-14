@@ -20,7 +20,8 @@
   <div class="row">
     <div class="col-md-6">
       <h3>List 1</h3>
-      Objective: <strong>Fuel Cache</strong>
+      Objective: <strong>Fuel Cache</strong><br/>
+      Tier: <strong>Body and Soul Tier 4</strong>
       <ul>
         <li>Deneghra 2 -6</li>
         <li>Deathjack +12</li>

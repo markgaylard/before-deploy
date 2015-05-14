@@ -2,7 +2,8 @@
 <@header 'players'/>
 <div class="container">
   <div class="alert alert-success" role="alert">This is an example of the players listing. Each player can submit a short bio/desciption along 
-  with links to anything they wish to promote.</div>
+  with links to anything they wish to promote. The players will be sorted by the number of matchups they have submitted. Players with the same number
+  of submissions with be subsorted randomly.</div>
   <div class="panel panel-default">
     <div class="panel-heading">
       <h3 class="panel-title">Example Player A</h3>
@@ -21,7 +22,6 @@
     </div>
     <div class="panel-body">
       Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony. And this isn't my nose. This is a false one. Did you dress her up like this? A newt? She looks like one. And the hat. She's a witch!
-      
     </div>
   </div>
 </div>

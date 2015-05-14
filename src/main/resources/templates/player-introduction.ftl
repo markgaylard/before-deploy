@@ -23,28 +23,28 @@ They then are asked to choose which list they would use in this matchup and then
 The players are then matched up with new opponents and tables/scenarios and the process starts again.</p>
   
     <h2>Prospective Player FAQ</h2>
-    <h3>If I sign up as a player, how much time will I need to spend filling in answers every matchup?</h3> 
-    <p>Ideally less than 30 minutes per matchup, but really it is up to you. You can make your responses as detailed as you like. The answers will save automatically
-    as you write them so you can spend a few minutes here and there until they are all complete.</p>
-
     <h3>If I sign up as a player, how much time will I need to spend filling in answers for my list?</h3> 
-    <p>Again, ideally less than 30 minutes, but again, it is really  up to you. The submission form will save automatically so you don't have to do everything in one sitting.</p>
+    <p>Ideally less than 30 minutes, but it is really up to you. The submission form will save automatically so you don't have to do everything in one sitting.</p>
+
+    <h3>If I sign up as a player, how much time will I need to spend filling in answers every matchup?</h3> 
+    <p>Again, ideally less than 30 minutes per matchup, but again, it is really up to you. You can make your responses as detailed as you like. The answers will save automatically
+    as you write them so you can spend a few minutes here and there until they are all complete.</p>
     
     <h3>Can I answer the questions on my phone?</h3> 
     <p>Yes. The site has been designed with this in mind.</p>
 
     <h3>How many players are there going to be?</h3> 
     <p>At the moment, no idea :) Ideally there would be enough to get a good cross section of factions so new players have a chance of seeing their chosen faction.
-If you know people who would be interested in helping out with this, feel free to send them a link to this page.</>
+If you know people who might be interested in taking part, feel free to send them a link to this page.</>
 
     <h3>What do I get out of it?</h3> 
     <p>You'll be helping new players learn what things to think about before deployment. Also, on your bio page you can have links/logos for anything you want to promote such as your store or podcast.</p>
 
     <h3>What does this website get out of it?</h3> 
-    <p>The same as the other non-player users of the site. It was developed by a player who is just starting to go to tournaments and was looking for a way to learn what sort of decisions to make. 
+    <p>The same as the other users of the site. It was developed by a player who is just starting to go to tournaments and was looking for a way to learn what sort of decisions to make. 
 As far as monetary rewards go, there are none. The costs of running this site are coming out of the developers pocket. If you want to sponsor the site to help with the costs, he'd be happy about that :)</p>
 
-    <h3>Will I need to remember another username and password?</h3> 
+    <h3>Will I need to remember another username and password to use this site?</h3> 
     <p>No. At the start of the tournament you will be sent a link unique to you to use to submit your lists. This link will only work until you have succesfully submitted the questionnaire. Same goes for
 the per matchup questions - a link that is unique for you.</p>
 
@@ -60,6 +60,10 @@ Depending on how many players there are, or if some players are taking a long ti
     <p>If you wish to participate, either send an email to <a href="mailto:before.deploy@gmail.com">before.deploy@gmail.com</a> or send a tweet to  
     <a href="https://twitter.com/beforedeploy">@beforedeploy</a> on twitter. Once this site is ready, you will be contacted and asked for your bio/links/etc and how you wish to be notified. 
 Once all the players are registered you will be sent your first link to submit your lists.</p>
+    
+    <h3>What happens if I want to drop out?</h3> 
+    <p>Not a problem. Just email/tweet that you'd like to stop participating and you will no longer be paired up for matches. You will stay listed on the player list screen. 
+It would be good if you could complete your current match questionnaire though so your opponents time isn't wasted.</p>
     
     <h3>When does everything go live?</h3>
     <p>Good question. It depends on how quickly enough players sign up. This site is still under development, but ideally it will be ready by the time Lock and Load comes around.</p>

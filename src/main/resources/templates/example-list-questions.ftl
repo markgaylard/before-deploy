@@ -35,8 +35,12 @@ the lists will be published for the other players and public to see.</div>
       </div>
       <div class="panel-body">
         <div class="form-group">
-          <label for="caster1">Who is your first caster</label>
+          <label for="caster1">Who is your first warcaster/warlock?</label>
           <input type="text" class="form-control" id="caster1" name="caster1"/>
+        </div>
+        <div class="form-group">
+          <label for="tier1">If this is a tier list, enter the tier name and level</label>
+          <input type="text" class="form-control" id="tier1" name="tier1"/>
         </div>
         <div class="form-group">
           <label for="list1">Enter your first list</label>
@@ -77,16 +81,20 @@ the lists will be published for the other players and public to see.</div>
       </div>
       <div class="panel-body">
         <div class="form-group">
-          <label for="caster2">Who is your second caster</label>
+          <label for="caster2">Who is your second warcaster/warlock?</label>
           <input type="text" class="form-control" id="caster2" name="caster2"/>
+        </div>
+        <div class="form-group">
+          <label for="tier2">If this is a tier list, enter the tier name and level</label>
+          <input type="text" class="form-control" id="tier2" name="tier2"/>
         </div>
         <div class="form-group">
           <label for="list2">Enter your second list</label>
           <textarea id="list2" name="list2" class="form-control" rows="10"></textarea>
         </div>
         <div class="form-group">
-          <label for="objective1">Which objective have you chosen for this list?</label>
-          <select class="form-control" id="objective1" name="objective1">
+          <label for="objective2">Which objective have you chosen for this list?</label>
+          <select class="form-control" id="objective2" name="objective2">
             <option>Arcane Wonder</option>
             <option>Armory</option>
             <option>Bunker</option>
