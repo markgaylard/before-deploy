@@ -37,6 +37,10 @@ The players are then matched up with new opponents and tables/scenarios and the 
     <p>At the moment, no idea :) Ideally there would be enough to get a good cross section of factions so new players have a chance of seeing their chosen faction.
 If you know people who might be interested in taking part, feel free to send them a link to this page.</>
 
+    <h3>What type of lists do I need to submit?</h3> 
+    <p>Two standard 50 point Steamroller lists. They can be lists you have used in the past or brand new. Keep in mind though that while this isn't a real tournament, one of the goals
+    of this site is to help newer players so explaining how your lists work is important.</p>
+
     <h3>What do I get out of it?</h3> 
     <p>You'll be helping new players learn what things to think about before deployment. Also, on your bio page you can have links/logos for anything you want to promote such as your store or podcast.</p>
 
@@ -53,8 +57,9 @@ the per matchup questions - a link that is unique for you.</p>
 
     <h3>How frequent are the matchups?</h3> 
     <p>Because there are no actual games played so no rankings, after each pair of players has submitted their matchup questionnaire and had their answers published, 
-they are then free to participate in the next matchup. At the moment the plan is to publish each matchup answers as soon as the second player submits their answers, then send out the links for the next matchup.
-Depending on how many players there are, or if some players are taking a long time to answer, the next matchup might be sent out before the previous one is published.</p>
+they are then free to participate in the next matchup. At the moment the plan is to publish each matchup answers as soon as the second player submits their answers. 
+Links for the next matchup would probably go out about a week after that. Depending on how many players there are, or if some players are taking a long time to answer, 
+the next matchup might be sent out before the previous one is published.</p>
     
     <h3>I want in. How do I sign up?</h3>
     <p>If you wish to participate, either send an email to <a href="mailto:before.deploy@gmail.com">before.deploy@gmail.com</a> or send a tweet to  
