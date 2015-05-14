@@ -29,10 +29,6 @@ They then are asked to choose which list they would use in this match and then a
     Once both players have submitted their answers, the matchup and their responses will be published for everyone to look at and learn from. 
 The players are then matched up with new opponents and tables/scenarios and the process starts again.
     </p>
-    <p>
-      <a class="btn btn-lg btn-primary" href="example-list-questions" role="button">View example list questionnaire &raquo;</a>
-      <a class="btn btn-lg btn-primary" href="example-round-questions" role="button">View example round questionnaire &raquo;</a>
-    </p>
   </div>
 </div>
 <#include 'footer.ftl'>

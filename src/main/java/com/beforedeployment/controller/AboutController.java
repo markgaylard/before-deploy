@@ -33,8 +33,8 @@ public class AboutController
     {
     }
 
-    @RequestMapping("/example-round-questions")
-    public void exampleRoundQuestions()
+    @RequestMapping("/example-matchup-questions")
+    public void exampleMatchupQuestions()
     {
     }
     
@@ -43,4 +43,8 @@ public class AboutController
     {
     }
 
+    @RequestMapping("/player-introduction")
+    public void playerIntroduction()
+    {
+    }
 }
