@@ -127,7 +127,7 @@
       </div>
     </div>
     <p>Once you have answered all the questions, push submit. Once you do this, you can no longer change your answers.</p>
-    <button type="submit" class="btn btn-primary" disabled>Sumbit</button>
+    <button type="submit" class="btn btn-primary" disabled>Submit</button>
   </form>
 </div>
 <div class="modal fade" id="list1" tabindex="-1" role="dialog" aria-hidden="true">
