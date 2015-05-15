@@ -7,7 +7,7 @@
 players in a tournament, what they think about during list selection and how they decide between picking a table edge or taking first turn. Basically all decisions made before deployment.</p>
     <p>The aim isn't to come up with a set of rules for such things as 'which list do I choose for this opponent', but rather explain the 
 thinking behind these decisions. It is more about the WHY than the WHAT. By simulating a tournament setup with changing tables and opponents, the idea
-is that players will be able to provide concrete details about why they made certain decisions rather than generalised statements about .</p>
+is that players will be able to provide concrete details about why they made certain decisions.</p>
 
     <h2>How it works</h2>
     <p>Players are invited to a virtual 'tournament'. They know who the other players are, but not what lists (or even factions) they are bringing. They 
